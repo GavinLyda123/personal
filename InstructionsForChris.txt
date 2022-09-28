@@ -1,0 +1,9 @@
+-make new folder, right click it, and select git BASH
+-git clone https://github.com/GavinLyda123/personal
+-git pull (do this to essentially refresh your repository)
+
+-git add . (period adds all of your additions)
+-git commit -m "Write your documentation here"
+-git push --set-upstream (puts into my remote repository)
+
+
